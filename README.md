@@ -1,7 +1,9 @@
 # Spy
 Spy on any pc using image 
 --------------------------------------------------------------------------------
+
 Today, I'm gonna show you how to spy on any pc and get remote access using a single picture
+
 --------------------------------------------------------------------------------
 This Tutorial is for educational purpose only 😁
 --------------------------------------------------------------------------------
@@ -9,6 +11,7 @@ In , this Tutorial we gonna use UltraVNC
 a tool that give you a remote acces to any pc
 Using the winvnc who is the viewer to get access
 And ultravnc who is the viewer 
+
 --------------------------------------------------------------------------------
 1.First :
 --------------------------------------------------------------------------------
@@ -21,6 +24,7 @@ to this :
 ![20240719093902_WhatsApp-Image-2024-07-19-at-15 02 58](https://github.com/user-attachments/assets/72bdee0b-ee3a-4095-824a-b0fd0ed704c4)
 
 that should help us during our attack
+
 --------------------------------------------------------------------------------
 2.Second
 --------------------------------------------------------------------------------
