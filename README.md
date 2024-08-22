@@ -21,6 +21,7 @@ to this :
 ![20240719093902_WhatsApp-Image-2024-07-19-at-15 02 58](https://github.com/user-attachments/assets/72bdee0b-ee3a-4095-824a-b0fd0ed704c4)
 
 that should help us during our attack
+--------------------------------------------------------------------------------
 2.Second
 --------------------------------------------------------------------------------
 Open the edited version of winvnc  add a password , and click apply
